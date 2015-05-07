@@ -1,0 +1,5 @@
+ro.ril.enable.a52=0
+ro.ril.enable.a53=1
+ro.ril.def.agps.feature=1
+ro.lpp.profile=3
+ro.ril.def.agps.mode=1
