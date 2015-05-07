@@ -1,0 +1,60 @@
+InsertCoin 7.1.4
+- added Kontrol tweak:MIUI battery on / off and size
+- added Kontrol tweak: Quicksettings Brightness slider on / off 
+- added Kontrol tweak: China Sense  on / off 
+- updated HTC Camera and HTC Gallery
+InsertCoin 7.1.3
+- updated apks from latest m9 base (1.32.401.17)
+- improved smoothness
+- fixed fastunlock tweak
+- fixed HK for VZW users (props andybones)
+- added Auto-Start Manager (Settings - Security)
+- AROMA: added Smaller NavBar Size options (42 and 36)
+- AROMA: AutoSleep Alternative 
+- Kontrol Tweak: Allow dynamic Navigation Bar colour's (Material design app's only) - props lyapota
+- updated HTC Service Pack
+InsertCoin 7.1.2
+- updated Sense Home (added tweaks)
+- updated HTC Lockscreen (added tweaks)
+- fixed HTC IME volup/voldwn scroll tweak
+InsertCoin 7.1.1
+- mix of Sense 7 framework with M8 framework to keep maximum compatibility 
+- all US carrier support is 100% working)
+- updated HTC Apps (Connect, Zoe, Facebook Plugin, Service Pack, Scribble, WorldClock)
+- added Sense 7 HTC Stock Browser
+- added Sprint EPST Hack
+- fixed HTC IME lag and auto-correction (update available also in PlayStore) 
+- fixed Ringtone Trimmer fc
+- fixed AppOps
+InsertCoin 7.0.5
+- true Sense 7 Framework. "android 5.0.2". all tweaks present.
+- updated Sense from latest Hima retail base 
+- added more colors and themes to HTC Theme Engine. (made by ineedone)
+- improved HTC IME responsiveness
+- cleanup 
+- fixed AROMA Errors 
+InsertCoin 7.0.4
+- fixed not being able to download / update Sense 7 apps in Google Play store
+- enabled HSDPA PLUS Icon for Vodafone Users
+- added HTC Sense7 MyTasks (thanks lee)
+- updated HTC Connect 
+- updated HTC Dotview with Sense 7 One
+InsertCoin 7.0.3
+- updated HTC Backup
+- updated Adaway with Material Design
+- changed ART Compiler Flags, should speed up things
+- fixed Priority mode (Interruptions) not kicking in/out at selected time interval
+- fixed Kontrol FC in buttons tab
+- fixed FMRadio
+- added FMRadio Widget (sense6 one)
+InsertCoin 7.0.2
+- removed DND mode from Settings. not working (Sense 7 had it removed as default)
+- fixed “Wake On SMS” and “Disable SMS to MMS coversion” tweak
+InsertCoin 7.0.1
+- updated to Sense 7 from HTC ONE M9
+- all tweaks included and working 
+- custom IC icons pack removed due Sense 7 built-in feature
+- Motion Launch Gestures "disable"" option moved from Kontrol to Settings - Display - MLG
+- all bugs squashed 
+- US carrier variants still might have a few kinks 
+- thanks w00dstock - help with HTC's obfuscated code

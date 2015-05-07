@@ -1,0 +1,6 @@
+TaskID : 417003
+Project : M8_UL_L50_SENSE60_MR
+SKU : HTC Europe[401]
+ROM Ver : 4.16.401.10
+Customization Id : 980227
+RCMS Id : 640
