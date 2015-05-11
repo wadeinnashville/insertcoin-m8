@@ -1150,8 +1150,8 @@ set_progress(0.94);
 #
 #################################################################################################################################################################
 ui_print("@Patching InsertCoin Rom Version");
-run_program("/tmp/set_build_prop.sh", "ro.product.version", "InsertCoin 7.1.4");
-run_program("/tmp/set_build_prop.sh", "ro.rom.version", "7.1.4");
+run_program("/tmp/set_build_prop.sh", "ro.product.version", "InsertCoin 7.1.5");
+run_program("/tmp/set_build_prop.sh", "ro.rom.version", "7.1.5");
 run_program("/tmp/set_build_prop.sh", "doze.pulse.duration.visible", "5000");
 run_program("/tmp/set_build_prop.sh", "doze.pulse.brightness", "17");
 	set_progress(0.95);

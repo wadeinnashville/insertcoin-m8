@@ -1,3 +1,9 @@
+InsertCoin 7.1.5
+- updated HTC Sense and HTC Lockscreen (tweaks ported)
+- updated HTCSpeak, HTC Tasks, HTC Service Pack
+- updated SuperSu to 2.49
+- Kontrol: Option to Hide Weather Vendor
+- AROMA: option for AOSP navbar buttons
 InsertCoin 7.1.4
 - added Kontrol tweak:MIUI battery on / off and size
 - added Kontrol tweak: Quicksettings Brightness slider on / off 
