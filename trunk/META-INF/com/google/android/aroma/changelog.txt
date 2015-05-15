@@ -1,3 +1,11 @@
+InsertCoin 7.1.6
+- Kontrol: added individual on / off option for Lockscreen style (normal / china) 
+- Kontrol: reorganized options a bit
+- fixed KillAll Button in Normal Recents Apps
+- fixed KillAll in China Recent Apps
+- update Adaway and Playstore
+- updated HTC Keyboard (tweaks ported)
+- updated HTC Help, DLNA. Car, Zoe, Browser
 InsertCoin 7.1.5
 - updated HTC Sense and HTC Lockscreen (tweaks ported)
 - updated HTCSpeak, HTC Tasks, HTC Service Pack
