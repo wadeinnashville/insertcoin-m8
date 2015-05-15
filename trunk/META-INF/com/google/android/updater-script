@@ -783,7 +783,7 @@ endif;
 if
     file_getprop("/tmp/aroma-data/sfeatures.prop","item.0.7") == "1"
 then
-    ui_print("|-> Center Clock");
+    ui_print("|-> Aosp NavBar");
     package_extract_dir("tools/addons/asopnav", "/tmp"); 
 	run_program("/tmp/res_patch.sh", "/system/priv-app/SystemUI/SystemUI.apk");
 endif;
