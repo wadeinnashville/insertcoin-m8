@@ -1,3 +1,10 @@
+InsertCoin 7.1.7
+- updated HTC Sense Home (tweaks ported)
+- updated HTC Lockscreen (tweaks ported)
+- updated HTC Sense Keyboard (tweaks ported)
+- fixed some issues with Ambient display
+- fixed some issues with SDCARD
+- up-patches from newer sense 7 build version 
 InsertCoin 7.1.6
 - Kontrol: added individual on / off option for Lockscreen style (normal / china) 
 - Kontrol: reorganized options a bit
