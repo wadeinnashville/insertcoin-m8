@@ -1,5 +1,5 @@
 ﻿ini_set("rom_name",             "InsertCoin HTC ONE M8");
-ini_set("rom_version",          "7.1.7");
+ini_set("rom_version",          "7.1.8");
 ini_set("rom_date",             "June, 2015");
 ini_set("rom_author",           "baadnewz - mikrosmile & V6-Maniac");
 ini_set("rom_device",           "All m8 variants");
